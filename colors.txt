@@ -3,3 +3,6 @@ blue
 orange
 brown
 black
+yellow
+navy blue
+indigo
