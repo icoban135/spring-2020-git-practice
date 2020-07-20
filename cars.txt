@@ -7,4 +7,7 @@ Mazda
 Audi
 Buick
 Nissan
-Hyndai
+Hyundai
+Bentley
+KIA
+Ferrari
